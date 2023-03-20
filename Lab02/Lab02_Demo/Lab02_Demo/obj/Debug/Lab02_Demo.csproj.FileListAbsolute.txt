@@ -1,0 +1,10 @@
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\Lab02_Demo\bin\Debug\Lab02_Demo.exe.config
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\Lab02_Demo\bin\Debug\Lab02_Demo.exe
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\Lab02_Demo\bin\Debug\Lab02_Demo.pdb
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.csprojAssemblyReference.cache
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.frmTrungTam.resources
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.Properties.Resources.resources
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.csproj.GenerateResource.cache
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.exe
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\Lab02_Demo\obj\Debug\Lab02_Demo.pdb

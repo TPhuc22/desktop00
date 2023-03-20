@@ -1,0 +1,9 @@
+C:\Users\CICT\Downloads\Lab02\MyForm\MyForm\bin\Debug\MyForm.exe.config
+C:\Users\CICT\Downloads\Lab02\MyForm\MyForm\bin\Debug\MyForm.exe
+C:\Users\CICT\Downloads\Lab02\MyForm\MyForm\bin\Debug\MyForm.pdb
+C:\Users\CICT\Downloads\Lab02\MyForm\MyForm\obj\Debug\MyForm.csprojAssemblyReference.cache
+C:\Users\CICT\Downloads\Lab02\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+C:\Users\CICT\Downloads\Lab02\MyForm\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+C:\Users\CICT\Downloads\Lab02\MyForm\MyForm\obj\Debug\MyForm.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\Lab02\MyForm\MyForm\obj\Debug\MyForm.exe
+C:\Users\CICT\Downloads\Lab02\MyForm\MyForm\obj\Debug\MyForm.pdb

@@ -1,0 +1,11 @@
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\BaiDemo2\bin\Debug\BaiDemo2.exe.config
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\BaiDemo2\bin\Debug\BaiDemo2.exe
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\BaiDemo2\bin\Debug\BaiDemo2.pdb
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\BaiDemo2\obj\Debug\BaiDemo2.csprojAssemblyReference.cache
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\BaiDemo2\obj\Debug\BaiDemo2.frmGiaoVien.resources
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\BaiDemo2\obj\Debug\BaiDemo2.frmTBGiaoVien.resources
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\BaiDemo2\obj\Debug\BaiDemo2.Properties.Resources.resources
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\BaiDemo2\obj\Debug\BaiDemo2.csproj.GenerateResource.cache
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\BaiDemo2\obj\Debug\BaiDemo2.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\BaiDemo2\obj\Debug\BaiDemo2.exe
+C:\Users\CICT\Downloads\Lab02\Lab02_Demo\BaiDemo2\obj\Debug\BaiDemo2.pdb
